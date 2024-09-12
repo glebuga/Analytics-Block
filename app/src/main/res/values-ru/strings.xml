@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Practice 2024</string>
+    <string name="аnalytica">Аналитика</string>
+    <string name="sales_of_goods">Продажи товаров</string>
+    <string name="аverage_check">Средний чек</string>
+    <string name="percentag_of_visits">% визитов с доп. услагами</string>
+    <string name="revenue_per_day">Выручка в день(постоянные клиенты)</string>
+    <string name="returnability">Возвращаемость</string>
+    <string name="сurrent_revenue">Текущая выручка</string>
+    <string name="visits">Визитов:</string>
+    <string name="percentage_of_salary">% зарплаты:</string>
+    <string name="salary">Зарплата</string>
+    <string name="main_services">На осн. услугах</string>
+    <string name="additional_services">На доп. услугах</string>
+    <string name="on_goods">На товарах</string>
+    <string name="maximum_goods">Если добить до максимума на товарах</string>
+    <string name="minimum_goods">Если добить до минимума на товарах</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="salon">Салон</string>
+    <string name="analysis_period">Аналитика показана за период с %1$s по %2$s</string>
+    <string name="analysis_period_failed">За период с %1$s по %2$s нет актуальной аналитики.</string>
+    <string name="changing_the_date">Попробуйте поменять дату</string>
+    <string name="info_returnability">Процент количества клиентов, посетивших салон в выбранный период, в сравнении с количеством посетителей за период, указанный в настройках</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="start_date">Начальная дата</string>
+    <string name="end_date">Конечная дата</string>
+    <string name="not_selected">Не выбрана</string>
+</resources>
